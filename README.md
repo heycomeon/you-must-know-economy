@@ -33,6 +33,8 @@ ETF에 투자하는 투자자는 ETF에 편입된 증권을 실제로 소유한�
     - 건전기업: 엑손 모빌, 쉐브런, 코노스 필립스, 드본 에너지, EOG, 파이오니어 정도
     - 문제기업: 옥시덴탈, 체사팅, EQT, 레인지, 체사팅 등등
   - 트럼프 카드. 전략비축유 (30달러 밑으로 떨어질 경우 매일 석유시장에서 대량 구매. 허나 재고가가 상당.
+- 롤 오버
+  - https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude-cash-settled_quotes_globex.html
 #### ETF
 - 해외: 레버리지: USO(1x), UCO(2x) UWP(3x 상폐...)
 - 국내: TIGER WTI 레버리지(1x). KODEX 원유 레업리지(2x)
